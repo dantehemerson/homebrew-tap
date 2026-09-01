@@ -6,7 +6,7 @@ class Difftonic < Formula
 
   on_macos do
     url "https://github.com/dantehemerson/difftonic/releases/download/v0.1.0/difftonic-v0.1.0-universal-apple-darwin.tar.gz"
-    sha256 "PLACEHOLDER_SHA256"
+    sha256 "3a288f19ec5d30554ae810e070780f692d5084104b88d5b584b99c9ce2db85bf"
   end
 
   def install
