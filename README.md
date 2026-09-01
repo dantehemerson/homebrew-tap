@@ -5,8 +5,7 @@ Homebrew tap for [difftonic](https://github.com/dantehemerson/difftonic).
 ## Installation
 
 ```sh
-brew tap dantehemerson/tap
-brew install difftonic
+brew install dantehemerson/tap/difftonic
 ```
 
 ## What is difftonic?
