@@ -1,12 +1,12 @@
 class Difftonic < Formula
   desc "Fast syntax-highlighted terminal diff renderer for LazyGit"
   homepage "https://github.com/dantehemerson/difftonic"
-  version "0.1.1"
+  version "0.1.2"
   license "MIT"
 
   on_macos do
-    url "https://github.com/dantehemerson/difftonic/releases/download/v0.1.1/difftonic-v0.1.1-universal-apple-darwin.tar.gz"
-    sha256 "3bb56994a1ea945f6e371b5ff99355d73e17e5257233fa051ee7c9f03abcddea"
+    url "https://github.com/dantehemerson/difftonic/releases/download/v0.1.2/difftonic-v0.1.2-universal-apple-darwin.tar.gz"
+    sha256 "6b80c66cd7049fe14643dd6b76b9cfd8c80397ad25f6d77949b4826eba18c435"
   end
 
   def install
